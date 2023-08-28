@@ -1,6 +1,6 @@
 
 =======
-# [HarukaBot](https://github.com/huanxin996/nonebot_huanxin_bot)——A dragon write bot
+# [HuanXinBot](https://github.com/huanxin996/nonebot_huanxin_bot)——A dragon write bot
 
 
 ## 简介
